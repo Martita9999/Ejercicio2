@@ -33,5 +33,7 @@ public class EjemplosConMetodos {
 			fact*=i;
 		return fact;	
 		System.out.println("Prueba1");  
+		 System.out.println("Prueba2"); 
+		
 	}
 }
