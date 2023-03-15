@@ -32,6 +32,6 @@ public class EjemplosConMetodos {
 		for (int i=1; i<=num; i++)
 			fact*=i;
 		return fact;	
-			
+		System.out.println("Prueba1");  
 	}
 }
