@@ -34,6 +34,6 @@ public class EjemplosConMetodos {
 		return fact;	
 		System.out.println("Prueba1");  
 		 System.out.println("Prueba2"); 
-		
+		 System.out.println("Prueba3"); 
 	}
 }
