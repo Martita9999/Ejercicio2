@@ -23,7 +23,7 @@ public class Ejemplo {
 		//Realiza una potencia
 		potencia=Math.pow(a, b);
 		//Eleva un número a otro
-		potEntera=power(a, b);
+		potEntera=power(a, b);s
 		double f=factorial(a); //llamamos a un método estático que calcula el factorial de a
 		
 		
@@ -66,5 +66,7 @@ public class Ejemplo {
 		   System.out.println("Prueba1");  	  
 		   System.out.println("Prueba2"); 
 		   System.out.println("Prueba3"); 
+		   System.out.println("Prueba4");
+		   System.out.println("Prueba5");
 	}
 }
