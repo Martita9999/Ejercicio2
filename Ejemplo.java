@@ -63,10 +63,6 @@ public class Ejemplo {
 	}
 	
 	public void valor(){
-		   System.out.println("Prueba1");  	  
-		   System.out.println("Prueba2"); 
-		   System.out.println("Prueba3"); 
-		   System.out.println("Prueba4");
-		   System.out.println("Prueba5");
+		  
 	}
 }
