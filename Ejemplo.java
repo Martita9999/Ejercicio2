@@ -58,6 +58,7 @@ public class Ejemplo {
 	
 	public void CargarValores(){
 	   System.out.println("Me llamo pepi");
+	   System.out.println("Ejercicio de merge con conflicto");
 	  
 		
 	}
