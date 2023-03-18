@@ -58,7 +58,7 @@ public class Ejemplo {
 	
 	public void CargarValores(){
 	   System.out.println("Me llamo pepi");
-	   System.out.println("Esto si que es un conflictoxx");
+	   System.out.println("Esto si que es un conflictoyy");
 	  
 		
 	}
