@@ -58,7 +58,7 @@ public class Ejemplo {
 	
 	public void CargarValores(){
 	   System.out.println("Me llamo pepi");
-	   System.out.println("Esto si que es un conflictoyy");
+	   System.out.println("Esto es una prueba de conflicto con dos ramas. Este es la linea para main");
 	  
 		
 	}
